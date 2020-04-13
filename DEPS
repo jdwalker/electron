@@ -61,7 +61,7 @@ vars = {
   'checkout_libaom':
     True,
   'checkout_oculus_sdk':
-    True,
+    False,
   'checkout_openxr':
     True,
   'build_with_chromium':
